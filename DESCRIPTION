@@ -1,11 +1,11 @@
 Package: turner
-Title: Turn vectors and lists of vectors into indexed structures
+Title: Turn Vectors and Lists of Vectors into Indexed Structures
 Version: 0.1.9
 Date: 2024-04-04
 Authors@R: c(
-	person(given = "Frederic", family= "Bertrand", role = c("cre", "ctb"), email = "frederic.bertrand@utt.fr", comment = c(ORCID = "0000-0002-0837-8281")),
+	person(given = "Frederic", family= "Bertrand", role = c("cre"), email = "frederic.bertrand@utt.fr", comment = c(ORCID = "0000-0002-0837-8281")),
 	person(given = "Gaston", family= "Sanchez", role = c("aut")))
-Author: Frederic Bertrand [cre, ctb] (<https://orcid.org/0000-0002-0837-8281>), Gaston Sanchez [aut]
+Author: Frederic Bertrand [cre] (<https://orcid.org/0000-0002-0837-8281>), Gaston Sanchez [aut]
 Maintainer: Frederic Bertrand <frederic.bertrand@utt.fr>
 Description: Package designed for working with vectors and lists of vectors,
     mainly for turning them into other indexed data structures.

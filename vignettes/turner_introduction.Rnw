@@ -1,3 +1,6 @@
+%\VignetteIndexEntry{Introduction to turner}
+%\VignetteEngine{knitr::knitr}
+%\VignetteEncoding{UTF-8}
 \documentclass[12pt]{article}
 \usepackage{upquote}
 \usepackage{geometry}
@@ -16,9 +19,6 @@
   linkcolor=linkcolor
 }
 
-% \VignetteIndexEntry{Introduction to turner}
-% \VignetteEngine{knitr}
-
 \begin{document}
 \title{Introduction to \texttt{turner}}
 \author{
@@ -29,6 +29,8 @@
 }
 \date{}
 \maketitle
+
+
 
 
 \section{Introduction and Motivation}
